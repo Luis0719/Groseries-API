@@ -11,7 +11,7 @@
     "make-pretty": "prettier --write '{src,test}/**/*.js'",
     "seed": "node scripts/dev/seedDB/index.js",
     "unseed": "",
-    "prepare": "husky install"
+    "prepare-husky": "husky install"
   },
   "repository": {
     "type": "git",
